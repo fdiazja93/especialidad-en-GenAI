@@ -28,3 +28,5 @@ data/
 *.tsv
 *.json
 
+# Specific data files
+Clase*/data
