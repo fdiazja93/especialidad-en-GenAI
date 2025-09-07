@@ -30,3 +30,4 @@ data/
 
 # Specific data files
 Clase*/data/nltk_data
+Clase*/embeddings
